@@ -2,7 +2,7 @@
 
 ## 1. (25 points) Numpy: Tutorial
 
-다음 자료를 참조하여 numpy 기본을 공부하시오.
+- [ ] 다음 자료를 참조하여 numpy 기본을 공부하시오.
 
 •https://docs.scipy.org/doc/numpy-1.15.0/user/quickstart.html
 
