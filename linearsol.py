@@ -31,15 +31,9 @@ from numpy.linalg import inv
 # x = np.array([2, 3])
 # print(inv(A))
 # print(np.dot(A, x))
+# print(np.matmul(inv(A), b))
 # print(np.dot(inv(A), b))
-
-# ex5)
-A = np.arange(2*3).reshape((2, 3))
-b = np.array([11, 38])
-x = np.array([2, 3, 4])
-# print(np.dot(A, x))
-# print(np.dot(inv(A)))
-print(inv(A))
+# print(inv(A)@b)
 
 
 # A_inv = inv(A)
